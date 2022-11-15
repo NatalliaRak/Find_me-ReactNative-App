@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "find_me",
+    "slug": "find_me",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist":{
+        "NSLocation": "Allow Find_Me to use your location",
+        "NSLocationAlwaysAndWhenInUseUsageDescription":"Allow Find_Me to use your location",
+        "NSLocationAlwaysUsageDescription":"Allow Find_Me to use your location",
+        "NSLocationWhenInUseUsageDescription":"Allow Find_Me to use your location",
+        "UIBackgroundModes": [
+          "location",
+          "fetch",
+          "remote-notification"
+
+        ]
+      }
+    },
+
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
