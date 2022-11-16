@@ -5,7 +5,7 @@ import * as Location from 'expo-location';
 export default function CurrentCoordinates() {
   const [location, setLocation] = useState(null);
   const [errorMsg, setErrorMsg] = useState(null);
-  const [mapad, setMapEd] = useState(null);
+
   useEffect(() => {
     (async () => {
       
