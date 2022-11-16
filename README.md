@@ -1,10 +1,10 @@
-#FIND_ME React Native app (in Belarusian name is "ДЗЕ_Я") 
+# FIND_ME React Native app (in Belarusian name is "ДЗЕ_Я") 
 
 15.November 2022
 
 This project uses GPS-location information for quick showing of the user's coordinates, sharing the accurate coordinates (longitude and latitude) and getting the accurate adress information (including building number. That project can be an app prototype for sharing the location in situations of danger as the project helps to share very accurate location information without using navegator what helps to reduce steps in sharing cordinates. The end-user's language is the Belarusian one.
 
-##Prerequisites:
+## Prerequisites:
 
 - [Node.js](https://nodejs.org/en/)
 - [Expo](https://expo.dev/)
@@ -12,7 +12,7 @@ This project uses GPS-location information for quick showing of the user's coord
 - [Metro](https://facebook.github.io/metro/)
 - VScode
 
-##Base dependencies:
+## Base dependencies:
 
  - expo for IOS and Android dev enviroment ;
  - expo-location for getting GPS navigation;
@@ -22,12 +22,12 @@ This project uses GPS-location information for quick showing of the user's coord
   <br>
 Also there are the keys and values in the Info.plist for getting IOS permissions for using the user's location. There are no Android requets for location, please, follow [the React Native documantation to set them](https://reactnative.dev/docs/0.63/geolocation) and [Android requets location permission](https://developer.android.com/training/location/permissions#accuracy).
 
-##Usage
+## Usage
 
 The universal way to run the project is to run the app with help of Expo Go. [Follow the official documantation to install and run it](https://docs.expo.dev/workflow/expo-go/).
 
 
-##Folder structure
+## Folder structure
 
 The project has simple and traditional structure:
  <br>
