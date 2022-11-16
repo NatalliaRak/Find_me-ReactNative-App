@@ -43,7 +43,7 @@ The project has simple and traditional structure:
         - CurrentAdress.js
         - Texting.js
 
-    assets:
+    - assets:
           - adoptive-con.png
           - favicon.ico
           - icon.png
