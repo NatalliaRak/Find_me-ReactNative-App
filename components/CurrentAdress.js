@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Platform, Text, View, StyleSheet, Button, Alert } from 'react-native';
+import React from 'react';
+import { Text, View, StyleSheet, Button, Alert } from 'react-native';
 import * as Location from 'expo-location';
 
 
