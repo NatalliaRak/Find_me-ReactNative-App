@@ -44,11 +44,11 @@ The project has simple and traditional structure:
         - Texting.js
 
     - assets:
-          - adoptive-con.png
-          - favicon.ico
-          - icon.png
-          - pattern.png
-          - splash.png
+         - adoptive-con.png
+         - favicon.ico
+         - icon.png
+         - pattern.png
+         - splash.png
 
 
    ### Components Folder
