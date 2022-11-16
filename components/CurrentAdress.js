@@ -41,9 +41,7 @@ export default function CurrentAdress() {
             }
           ]
         );
-
-      }
-    }
+      }}
   };
 
 
@@ -74,7 +72,6 @@ const styles = StyleSheet.create({
     color: 'white',
     fontSize: 20,
     textAlign: "center",
-
   },
   butt: {
     backgroundColor: 'crimson',
@@ -85,6 +82,5 @@ const styles = StyleSheet.create({
     shadowRadius: 3,
     margin: '15%',
     padding: '1%'
-
    }
 })
