@@ -84,6 +84,5 @@ const styles = StyleSheet.create({
       shadowRadius: 3,
       margin: '10%',
       padding: '1%'
-  
      }
   })
