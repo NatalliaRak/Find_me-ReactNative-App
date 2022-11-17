@@ -4,6 +4,8 @@
 
 This project uses GPS-location information for quick showing of the user's coordinates, sharing the accurate coordinates (longitude and latitude) and getting the accurate adress information (including building number. That project can be an app prototype for sharing the location in situations of danger as the project helps to share very accurate location information without using navigator what helps to reduce steps in sharing cordinates. The end-user's language is the Belarusian one.
 
+
+
 ## Prerequisites:
 
 - [Node.js](https://nodejs.org/en/)
@@ -39,18 +41,15 @@ The universal way to run the project is to run the app with help of Expo Go. [Fo
      npm i pod-install   
  - Install React Native Permissions:
      npm i react-native-permissions
- -     
-     
-     
-- Dowload the template and start the development server with (Expo Cli)[https://docs.expo.dev/get-started/create-a-new-app/]
-- To open the app:
+ - Use template files (App.js, CurrentAdress.js, Current_coordinates.js, Texting.js; pattern.png is used as *ImageBackground*)
+- How to open the app on phones:
    IOS:
      - On your iPhone or iPad, open the default Apple "Camera" app and scan the QR code you see in the terminal
    Android:
      - On your Android device, press "Scan QR Code" on the "Home" tab of the Expo Go app and scan the QR code you see in the terminal.
-
-
-Use it happily!
+- There will be ask of permission to use Geolocation
+- Let app to get where are you
+- Use it happily!
 
 
 
