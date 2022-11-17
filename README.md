@@ -32,9 +32,15 @@ The universal way to run the project is to run the app with help of Expo Go. [Fo
  - Install Sockiet.io:
      npm i react-native-tcp-socket.io
  - Install Metro-config:
-      npm i metro-config:
- - Install Expo-location
+      npm i metro-config
+ - Install Expo-location:
      npx expo install expo-location
+ - Install Cocoapods:
+     npm i pod-install   
+ - Install React Native Permissions:
+     npm i react-native-permissions
+ -     
+     
      
 - Dowload the template and start the development server with (Expo Cli)[https://docs.expo.dev/get-started/create-a-new-app/]
 - To open the app:
