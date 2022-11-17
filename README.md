@@ -35,7 +35,7 @@ The universal way to run the project is to run the app with help of Expo Go. [Fo
      - On your Android device, press "Scan QR Code" on the "Home" tab of the Expo Go app and scan the QR code you see in the terminal.
 
 
-Happy using!
+Use it happily!
 
 
 
