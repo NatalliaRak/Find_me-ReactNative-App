@@ -9,7 +9,7 @@ This project uses GPS-location information for quick showing of the user's coord
 - [Node.js](https://nodejs.org/en/)
 - [Expo](https://expo.dev/)
 - [Socket.io](https://www.npmjs.com/package/react-native-tcp-socket)
-- [Metro](https://facebook.github.io/metro/)
+- [Metro](https://www.npmjs.com/package/metro-config)
 - VScode
 
 ## Base dependencies:
@@ -27,6 +27,15 @@ The universal way to run the project is to run the app with help of Expo Go. [Fo
 
 - Download the Expo Go from Google Play or/and Apple Store, install it.
 - Install Expo Cli on your computer. (Follow the documentation)[https://docs.expo.dev/get-started/installation/]
+- Create new project with Expo:
+     npx create-expo-app my-app
+ - Install Sockiet.io:
+     npm i react-native-tcp-socket.io
+ - Install Metro-config:
+      npm i metro-config:
+ - Install Expo-location
+     npx expo install expo-location
+     
 - Dowload the template and start the development server with (Expo Cli)[https://docs.expo.dev/get-started/create-a-new-app/]
 - To open the app:
    IOS:
