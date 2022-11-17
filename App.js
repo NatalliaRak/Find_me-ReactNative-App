@@ -1,4 +1,3 @@
-import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, LogBox, ImageBackground } from 'react-native';
 import CurrentAdress from './components/CurrentAdress';
 import CurrentCoordinates from './components/Current_coordinates';
