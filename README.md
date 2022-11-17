@@ -4,10 +4,11 @@
 
 This project uses GPS-location information for quick showing of the user's coordinates, sharing the accurate coordinates (longitude and latitude) and getting the accurate adress information (including building number. That project can be an app prototype for sharing the location in situations of danger as the project helps to share very accurate location information without using navigator what helps to reduce steps in sharing cordinates. The end-user's language is the Belarusian one.
 
-<img src="https://user-images.githubusercontent.com/106593583/202513495-896e4f75-56cc-4fc0-a576-c0501f18e2d3.jpg" width=25%>
-<img src="https://user-images.githubusercontent.com/106593583/202514162-152ebf15-fc87-4781-8ba3-1ae19400d91f.jpg" width=25%>
-<img src="https://user-images.githubusercontent.com/106593583/202514179-29ef368c-f7bd-4f6e-8803-d48556b41c87.jpg" width=25%>
-
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/106593583/202513495-896e4f75-56cc-4fc0-a576-c0501f18e2d3.jpg" width=25%>
+   <img src="https://user-images.githubusercontent.com/106593583/202514162-152ebf15-fc87-4781-8ba3-1ae19400d91f.jpg" width=25%>
+   <img src="https://user-images.githubusercontent.com/106593583/202514179-29ef368c-f7bd-4f6e-8803-d48556b41c87.jpg" width=25%>
+</p>
 
 ## Prerequisites:
 
